@@ -164,10 +164,10 @@ function loadContent(page) {
                 <div class="profile-info">
                     <div class="profile-header">
                         <img src="images/profile.jpg" alt="">
-                        <h3>John Doe</h3>
+                        <h3>Rafael grealdi</h3>
                     </div>
                     <div class="profile-bio">
-                        <p>Hi, I'm John Doe, a passionate software developer with over 5 years of experience in building web applications. I specialize in frontend development and have a keen interest in learning new technologies.</p>
+                        <p>Hi, I'm rafael, a passionate software developer with over 5 years of experience in building web applications. I specialize in frontend development and have a keen interest in learning new technologies.</p>
                     </div>
                     <div class="profile-skills">
                         <h3>Skills</h3>
