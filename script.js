@@ -245,7 +245,7 @@ function loadContent(page) {
                         <h3>Contact Us</h3>
                         <p>If you have any questions or feedback, feel free to reach out to us:</p>
                         <ul>
-                            <li>Email: developer@example.com</li>
+                            <li>Email: rafaelgrealdi81@gmail.com</li>
                             <li>GitHub: <a href="https://github.com/your-repo" target="_blank">github.com/your-repo</a></li>
                         </ul>
                     </div>
